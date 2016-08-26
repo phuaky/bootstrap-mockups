@@ -1,0 +1,17 @@
+#navbar {
+  border: 2px solid yellow;
+}
+
+body {
+  color: grey;
+}
+
+#greyBox {
+  background-color: grey;
+  color: black;
+}
+
+#lightGrey {
+  background-color: rgb(249, 243, 238);
+  font-size: 8pt;
+}
